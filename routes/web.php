@@ -16,19 +16,13 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
-<<<<<<< HEAD
-=======
 
->>>>>>> 55a405dd32f0fe4d00108aaf396847de23293783
 Route::get('/', function () {
     return view('welcome');
 });
 
-<<<<<<< HEAD
-=======
 Route::get('/', function () {
     return view('welcome');
 });
 
 
->>>>>>> 55a405dd32f0fe4d00108aaf396847de23293783
